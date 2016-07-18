@@ -8,7 +8,7 @@
 *.swp
 *.zip
 *.vi
-*~
+*~  
 *.sass-cache
 *.seed
 *.csv
